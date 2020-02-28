@@ -4,7 +4,13 @@ It may turn out to be a good choice for those who like a normal but powerful tex
 
 # Getting Started
 Download [node.js](https://nodejs.org/en/download/) on your maschine.
+In CMD run the command
+
+```python
+npm install electron
+```
 Download the repository and in the downloaded directory just run the command 
+
 ```python
 npm start
 ```
