@@ -1,0 +1,17 @@
+{
+  "name": "visual_code",
+  "version": "1.0.0",
+  "description": "This is a good text editor for html and other languages also",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "visual_code"
+  ],
+  "author": "Azad Kshitij",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^8.0.1"
+  }
+}
